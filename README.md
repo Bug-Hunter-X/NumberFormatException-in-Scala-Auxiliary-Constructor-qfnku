@@ -1,0 +1,1 @@
+This repository contains a simple Scala example showcasing a common runtime error: NumberFormatException. The example uses an auxiliary constructor to convert a String to an Int. If the conversion fails (e.g., due to non-numeric input), a NumberFormatException is thrown. The solution demonstrates how to handle this exception using a try-catch block for robust error handling.
